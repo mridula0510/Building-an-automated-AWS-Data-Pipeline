@@ -91,3 +91,5 @@ Tableau serves as the visualization and reporting layer. Curated datasets from S
 Through this implementation, the project demonstrates practical understanding of modern data engineering concepts including cloud-based storage, ETL automation, event-driven architectures, scalable analytics platforms, and enterprise reporting solutions. The architecture showcases how traditional data warehousing principles can be extended using cloud-native technologies to support modern analytical workloads.
 
 ---
+
+
