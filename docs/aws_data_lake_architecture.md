@@ -1,7 +1,6 @@
 # Phase 2 - Cloud Data Lake Architecture
 
 ## Overview
-## Phase 2 – Cloud Data Lake Extension
 
 To extend the capabilities of the SQL Data Warehouse, the project was enhanced with a cloud-based Data Lake architecture built using AWS and Snowflake technologies. This phase focuses on scalable data storage, automated data ingestion, cloud-native processing, and analytical reporting.
 
